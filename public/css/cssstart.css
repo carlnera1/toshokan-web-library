@@ -1,0 +1,19 @@
+.tbl > table{
+    background-color: rgb(199, 199, 199);
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.tbl > table #header{
+    background-color: grey;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.tbl > table tr:hover{
+    background-color: rgb(46, 207, 207);
+}
+
+.tbl > table #items td{
+    padding: 2px;
+}

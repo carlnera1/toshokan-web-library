@@ -1,0 +1,16 @@
+h5{
+    background-color:  rgb(199, 199, 199);
+    margin: 0px;
+    font-size:20px;
+    padding-top:10px;
+    padding-bottom: 5px;
+}
+
+.detailform{
+    border-top: 1px solid grey;
+    background-color:  rgb(199, 199, 199);
+}
+
+.detailform table tr td button{
+    padding:5px;
+}

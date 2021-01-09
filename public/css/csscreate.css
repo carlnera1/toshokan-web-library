@@ -1,0 +1,55 @@
+*:focus{
+    outline:none;
+}
+
+h5{
+    background-color:  rgb(199, 199, 199);
+    margin: 0px;
+    font-size:20px;
+    padding-top:10px;
+}
+
+.formc{
+    background-color:  rgb(199, 199, 199);
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.formc > ul li:first-child{
+    border-top: 1px solid grey;
+}
+
+.formc > ul li:last-child{
+    border-bottom: 1px solid grey;
+}
+
+.formc > ul{
+    width:500px;
+    list-style-type:none;
+    list-style-position: outside;
+    margin:0px;
+    padding:0px;
+}
+
+.formc > ul li{
+    list-style-type:none;
+    padding:5px;
+    position: relative;
+}
+
+.formc ul li label{
+    width:100px;
+    margin-top: 3px;
+    display:inline-block;
+    float:left;
+    padding:3px;
+}
+
+
+.formc ul li button{
+    padding:10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20;
+    font-weight: bold;
+}
